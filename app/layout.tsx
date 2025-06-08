@@ -6,6 +6,9 @@ export const metadata: Metadata = {
   title: 'Base64 Data Viewer | Decode & Preview Data URLs',
   description: 'A powerful web tool to decode, preview, and analyze base64 encoded data URLs. Supports images, PDFs, and other file types with instant preview and copy functionality.',
   keywords: 'base64, data url, decoder, viewer, preview, encode, decode, file converter',
+  icons: {
+    icon: 'https://avatars.githubusercontent.com/u/121523551?v=4',
+  },
 }
 
 const Header = () => {
